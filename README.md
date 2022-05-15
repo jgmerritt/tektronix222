@@ -1,6 +1,10 @@
 tektronix222
 ============
 
+Fork
+-----
+I forked this to continue working on as I am bringin my old Tektronix scope back to life.
+
 About
 -----
 This is a python script for interfacing to the Tektronix 222 oscilloscope.
