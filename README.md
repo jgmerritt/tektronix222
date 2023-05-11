@@ -3,7 +3,7 @@ tektronix222
 
 Fork
 -----
-I forked this to continue working on as I am bringin my old Tektronix scope back to life.
+I forked this to continue working on as I am bringing my old Tektronix scope back to life.
 
 About
 -----
